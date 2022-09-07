@@ -1,7 +1,5 @@
 #include <iostream>
 using namespace std;
-
-// These functions will perform the all arithmetic operations
 inline void Sum(int p, int q) {
     int sum = p + q;
     cout << "SUM        " << p << " + " << q << " = " << sum << "\n";
