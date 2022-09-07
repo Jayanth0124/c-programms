@@ -1,3 +1,4 @@
+//this programm is done by jayanth
 #include <iostream>
 using namespace std;
 inline void Sum(int p, int q) {
