@@ -1,3 +1,4 @@
+//this programm is done by jayanth
 #include <bits/stdc++.h>  
 using namespace std;  
 void find_greatest(int a, int b, int c, int d)  
